@@ -1,0 +1,280 @@
+{
+  "data":[
+    [
+      "Fermentable fiber",
+      "A component of a dietary fiber which serves as a food (pre-biotic effect) for beneficial microorganisms in the large intestine (hindgut)."
+    ],
+      
+    [
+      "Non-Fermentable fiber",
+      "A component of a dietary fiber which eases defecation and improves food passage rate."
+    ],
+      
+    [
+      "Prebiotic",
+      "Food for the beneficial microorganisms."
+    ],  
+      
+    [
+      "Probiotic",
+      "Beneficial microorganisms."
+    ],  
+      
+    [
+      "COA",
+      "<b>Certificate of Analysis.</b><br> A document certifying that a batch/es of product was/were tested and analyzed. It also shows the result of analysis"
+    ],
+      
+    [
+      "MSDS",
+      "<b>Materials Safety Data Sheet.</b><br> A document showing the specifications of a product including the proper handling to ensure safety."
+    ],  
+      
+    [
+      "Inclusion",
+      "The level or amount (e.g. 5 kg/ton) of a compound/mixture/product to be incorporated in a diet"
+    ],
+      
+    [
+      "First Generation Acidifier",
+      "An acidifier that is used mainly for acidification (lowers stomach pH) for better digestion."
+    ],  
+      
+    [
+      "Second Generation Acidifier",
+      "An acidifier that is used for acidification (lowers stomach pH) for better digestion and can also be used as an antimicrobial"
+    ], 
+      
+    [
+      "Antimicrobial",
+      "Any product that can inhibit or kills a harmful microorganism"
+    ],  
+      
+    [
+      "Acidifier",
+      "A product and feed additive used in animal nutrition that contains an acid which can be used either for preservative, for acidification, and for antimicrobial"
+
+    ],   
+    [
+      "Toxin Binder",
+      "A product and feed additive used in animal nutrition to bind mycotoxins such as Aflatoxin, Zearalenone, T2, etc."
+    ],  
+      
+    [
+      "Mycotoxins",
+      "These are secondary metabolites produced by fungi that is harmful for both humans and animals. Examples are aflatoxin, zearalenone, T2, etc."
+    ], 
+      
+    [
+      "Technological Emulsifier",
+      "Is a product that stabilizes the mixing of two immiscible compounds (such as water and oil). When used in the feedmill operation, it gives a better mixing of feeds and helps the overall feed mill production and health of feed mill equipment"
+    ], 
+      
+    [
+      "MCP",
+      "Stands for <b>MonoCalcium Phosphate.<b><br>Used as feed additive that used as an inorganic Calcium and Phosphorus source in the diet. Among all sources of Calcium and Phosphorus, MCP gives the highest in terms of bioavailability."
+    ],  
+      
+    [
+      "Metabolites",
+      "Are compounds secreted by an organism as a product of its metabolism"
+    ],  
+      
+    [
+      "Metabolism",
+      "Is a biochemical process in the body that can either be anabolic (building up e.g. muscle building) and catabolic (breaking down e.g. digestion)"
+    ], 
+      
+    [
+      "Protein",
+      "Is one of the nutrients needed by the body and cal also be a source of energy. Composed of carbon,hydrogen,oxygen, and nitrogen (CHON). It's basic unit is called amino acid. "
+    ], 
+      
+    [
+      "Amino acid",
+      "It is the basic building block of proteins and are categorized into many classes. It's general categories include essential and non-essential amino acids."
+    ],
+      
+    [
+      "Synthethic Amino acid",
+      "Are amino acids that are created industrially. There are 5 synthethic amino acids that are available today, namely, L-Lysine, L-Threonine, L/DL-Methionine, L-Tryptophan, and L-Valine."
+    ],
+      
+    [
+      "Pigments",
+      "This can be a feed additive that is added to feeds. These are used to color the yolk of the egg, or the meat of an animal to make them premium in terms of pricing. The target color varies depending on the desired color of the person/region. There are natural and synthethic pigments available. "
+    ],   
+      
+    [
+      "Antioxidants",
+      "This is a feed additive that is added to the feed ingredients or the finish feeds to prevent spoilage, thus, can be stored longer."
+    ],   
+      
+    [
+      "Molds",
+      "These are type of fungi that gets nutrients from the food, thus, should be prevented. They also produces mycotoxins that are harmful to both humans and animals."
+    ],  
+      
+    [
+      "Anti Molds",
+      "These are feed additives added to the feed ingredients/finish feeds to reduce or kill molds or fungi."
+    ], 
+      
+    [
+      "Enzymes",
+      "These are protein compounds that helps in breaking down undigestible portion of the food. There are different types of enzymes and are specific to the compound they digest. These can be feed additive in animal nutriton to help animals digest food and increases the utilization of nutrients on feed ingredients. Examples: phytase for phytic acid, galactosidase for galactosides in soybean meal"
+    ],
+      
+    [
+      "6-Phytase",
+      "It is a second generation phytase enzyme that can liberate more Phosphorus from phytic acid compared to first generation or 3-Phytase enzymes"
+    ],
+      
+    [
+      "Ethoxyquin",
+      "One of the types of antioxidants. It is also the most efficient antioxidant because it can act in feeds and can also act inside the body (biologically)"
+    ],
+      
+    [
+      "Choline Chloride",
+      "Contains Vitamin B4 (choline) in the form of choline chloride. It can be in powdered form (distributed in a carrier, can be a corn cob or silica) or in liquid form. It helps prevent fatty liver and leg disorders."
+    ],  
+      
+    [
+      "Carrier",
+      "The are compounds added to the mixture in order to mix compounds that are very low in amount such as vitamins. Examples of carriers are soybean meal, wheat pollard, rice hull, silica"
+    ],    
+      
+    [
+      "First Generation Fiber",
+      "Example is Fibercell. It has insoluble and non-fermentable fiber components that has physical effects to animals such as easing defacation"
+    ],  
+      
+    [
+      "Second Generation Fiber",
+      "Example is OptiCell. Also called physiological fiber. It has the synergistic combination of insoluble and fermentable fiber components that has physical effects and prebiotic effects to animals."
+    ],
+      
+    [
+      "1-monoglycerides",
+      "Examples are FRA AC34 and FRA C12. <br> These are acids attached to the first carbon of a glycerol backbone to have an antimicrobial property. 1-monoglycerides have greater action than acidifiers alone."
+    ],
+      
+    [
+      "Potentiated",
+      "It means that the product has more surface area and porosity, thus, making it more effective at a very low inclusion"
+    ],  
+      
+    [
+      "Zinc Oxide",
+      "A zinc source in the form of Zinc Oxide. Studies showed that it can also act as antimicrobial at high inclusion. Mostly promoted to piglets to prevent diarrhea caused by a harmful E.coli bacteria."
+    ],  
+      
+    [
+      "L-Lysine",
+      "A synthetic amino acid. It is essential in the diet and it is the first limiting amino acid in swine (for better meat quality) and also the basis of protein synthesis and utilization"
+    ], 
+      
+    [
+      "Limiting amino acids",
+      "All essential amino acids are limiting amino acids. They are called limiting because when any of them is deficient in the body, it will be the basis or threshold of the production of other amino acids in the body."
+    ], 
+      
+    [
+      "Essential amino acids",
+      "These are amino acids that cannot be produced by the body. There are 10 essential amino acids (PVT-MAT-HILL)"
+    ],  
+      
+    [
+      "Non-Essential amino acids",
+      "These are amino acids that can be produced by the body."
+    ],
+      
+    [
+      "Nutritional Peptide",
+      "Example is Magnapro. It is a type of protein source that can be digested in the body and be used as a nutrient."
+    ], 
+      
+    [
+      "Peptide",
+      "Two (or more) amino acids that are joined together. Generally called proteins. Its functions may vary depending on the sequence of amino acids in the chain. Can be a nutritional and bioactive peptide."  
+    ],  
+      
+    [
+      "Bioactive Peptide",
+      "Example is Peptiva. It is a type of protein that cannot be digested and are utilized and absorbed directly by the body for production of hormones, production of antibodies, etc) for physiological processs."
+    ],   
+      
+    [
+      "L-Methionine",
+      "A synthetic amino acid. It is essential in the diet and it is the first limiting amino acid in poulty (for feather development)."
+    ],  
+      
+    [
+      "L-Threonine",
+      "A synthetic amino acid. It is essential in the diet and it is has an effect in immunity (producton of white blood cells)."
+    ],  
+      
+    [
+      "L-Typtophan",
+      "A synthetic amino acid. It is essential in the diet and it helps increase the feed intake of animals because it is a precursor in the production of serotonin."
+    ],   
+      
+    [
+      "L-Valine",
+      "A synthetic amino acid. It is essential in the diet and it helps is muscle development of animals"
+    ],
+      
+    [
+      "Anti-Salmonella",
+      "A feed additive used to inhibit/kill Salmonella in feeds and feed ingredients."
+    ],  
+      
+    [
+      "Salmonella",
+      "A type of gram-negative bacteria that is zoonotic (harmful to humans and animals) when level is high."
+    ], 
+      
+    [
+      "Selenomethionine",
+      "A type of Selenium source (Selenium+methionine) that has high bioavailability compared to other selenium sources. It is also the organic selenium source that can tranfer its selenium to meat and eggs."
+    ],   
+      
+    [
+      "SPC",
+      "Soy Protein Concentrate. Example is X-Soy 600 and 200. A type of soybean meal processing that involves heat treatment and ethanol extraction to remove undigestible compounds."
+    ],  
+      
+    [
+      "Fermentation",
+      "A type of biochemical process often term to microorganisms when they produce chemical changes to compounds through the actions of enzymes."
+    ], 
+      
+    [
+      "Crystalline",
+      "With definite structure. In Silica+, the material used is a crystalline silica because it is the only form of silica that can store electromagnetic frequencies."
+    ],
+      
+    [
+      "Sweetener",
+      "An additive (Example is TasteTite) used in animals' diet to increase palatability and stimulate high feed intake. Can be aroma or flavoring."
+    ],
+    [
+      "EMF",
+      "Electro Magnetic Frequency. In silica+, the crystalline silica is activated by EMF. Studies showed that EMF can bring back homeostasis of all compounds in the body which aids in better performance of animals. In aqua, it is beneficial as it can also increase the dissolved oxygen in the water."
+    ],
+      
+    [
+      "Sow",
+      "A pig that already gave birth."
+    ],  
+      
+    [
+      "Gilt",
+      "Pagdalaga. Dalagang baboy. A term refers to a pig that has not yet given birth and is kept for breeding."
+    ]
+    
+      
+      
+      ]
+}
